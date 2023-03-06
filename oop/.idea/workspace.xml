@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec936247-9fde-469c-96db-ab7e9202031b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../bugg/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bugg/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bugg/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bugg/bugg.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bugg/out/production/bugg/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bugg/src/Main.java" beforeDir="false" />
+    <list default="true" id="f7f7d515-a409-44fa-b2d0-23e7b97c8b0e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../day1/day1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../day1/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../day1/src/exercise/convertMoney.java" beforeDir="false" />
@@ -24,6 +18,38 @@
       <change beforePath="$PROJECT_DIR$/../day1/src/practice/declare_variable.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../day1/src/practice/leap_year.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../day1/src/practice/rectangular_area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/day2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/bankInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/draw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/greatestCommonDivisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/prime2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/printPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/day3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/asterisk/count_duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/asterisk/count_pass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/asterisk/sum_colum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/asterisk/sum_diagonal_line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/delete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/exercise/add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/exercise/find_in_2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/exercise/find_min.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/exercise/join.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/practise/find.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/practise/findMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day3/src/practise/reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4/day4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4/src/Temperature_conversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day4/src/find_min.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/haha.java" beforeDir="false" afterPath="$PROJECT_DIR$/day2/haha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/src/bankInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/src/draw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/src/greatestCommonDivisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/src/prime2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/src/printPrime.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,56 +66,49 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7ebaf916-df3b-419c-9a6a-cc5ceb00a021" />
+        <option name="url" value="https://github.com/ThamuzIV/ki_2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2LQzJ9SmYOSm4XB66j2WSRm9NhC" />
+  <component name="ProjectId" id="2MIhtpBMf0JJqFazZDh7nagkfYD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/CodeGym/Semester II/oop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/CodeGym/leve up",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\CodeGym\Semester II\oop\day3\src" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.find_min">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="testcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Temperature_conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temperature_conversion" />
-      <module name="day4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="count_duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="asterisk.count_duplicate" />
-      <module name="day3" />
+}]]></component>
+  <component name="RunManager" selected="Application.StopWatchProgram">
+    <configuration name="StopWatchProgram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerctice.StopWatchProgram" />
+      <module name="day5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="asterisk.*" />
+          <option name="PATTERN" value="exerctice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_pass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="asterisk.count_pass" />
-      <module name="day3" />
+    <configuration name="StopWatchProgram (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerctice.StopWatchProgram" />
+      <module name="day5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="asterisk.*" />
+          <option name="PATTERN" value="exerctice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,70 +129,93 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="find_min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="find_min" />
-      <module name="day4" />
+    <configuration name="StopWatchProgram (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerctice.StopWatchProgram" />
+      <module name="day5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exerctice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StopWatchProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerctice.StopWatchProgram" />
+      <module name="day5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exerctice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Use" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exerctice.Use" />
+      <module name="day5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exerctice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="day3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="day3" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.find_min" />
-        <item itemvalue="Application.Temperature_conversion" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.count_pass" />
-        <item itemvalue="Application.count_duplicate" />
+        <item itemvalue="Application.StopWatchProgram" />
+        <item itemvalue="Application.StopWatchProgram (3)" />
+        <item itemvalue="Application.StopWatchProgram (2)" />
+        <item itemvalue="Application.StopWatchProgram (1)" />
+        <item itemvalue="Application.Use" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec936247-9fde-469c-96db-ab7e9202031b" name="Changes" comment="" />
-      <created>1675818021344</created>
+      <changelist id="f7f7d515-a409-44fa-b2d0-23e7b97c8b0e" name="Changes" comment="" />
+      <created>1677461220635</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675818021344</updated>
-      <workItem from="1675818022183" duration="12591000" />
-      <workItem from="1675837468882" duration="10547000" />
-      <workItem from="1675904161459" duration="1607000" />
-      <workItem from="1675908050737" duration="1133000" />
-      <workItem from="1675909329469" duration="76000" />
-      <workItem from="1675994379456" duration="21000" />
-      <workItem from="1676011478562" duration="142000" />
-      <workItem from="1676011636421" duration="26000" />
-      <workItem from="1676250647777" duration="3396000" />
-      <workItem from="1676260284207" duration="13047000" />
-      <workItem from="1676290837742" duration="6432000" />
-      <workItem from="1676297482023" duration="2148000" />
-      <workItem from="1676306276045" duration="1560000" />
-      <workItem from="1676309517182" duration="101000" />
-      <workItem from="1676309647461" duration="560000" />
-      <workItem from="1676336638229" duration="856000" />
-      <workItem from="1676338316122" duration="234000" />
-      <workItem from="1676339918461" duration="64000" />
-      <workItem from="1676340011008" duration="534000" />
-      <workItem from="1676340578189" duration="7026000" />
-      <workItem from="1676425681667" duration="6425000" />
-      <workItem from="1676444174028" duration="7602000" />
-      <workItem from="1676596412905" duration="1579000" />
-      <workItem from="1676607203263" duration="1957000" />
-      <workItem from="1676609191762" duration="2497000" />
-      <workItem from="1676648827849" duration="4828000" />
-      <workItem from="1676857545061" duration="10277000" />
-      <workItem from="1676877641615" duration="232000" />
-      <workItem from="1676881493728" duration="1770000" />
-      <workItem from="1676896457485" duration="1145000" />
-      <workItem from="1676941999168" duration="6319000" />
-      <workItem from="1676952812186" duration="12264000" />
-      <workItem from="1676971770708" duration="21000" />
-      <workItem from="1676972504522" duration="164000" />
-      <workItem from="1676988937677" duration="1532000" />
-      <workItem from="1677027721409" duration="15441000" />
-      <workItem from="1677048423472" duration="1301000" />
-      <workItem from="1677141420148" duration="1124000" />
-      <workItem from="1677202208049" duration="4959000" />
+      <updated>1677461220635</updated>
+      <workItem from="1677461221763" duration="242000" />
+      <workItem from="1677461981205" duration="133000" />
+      <workItem from="1677462756849" duration="11893000" />
+      <workItem from="1677546148627" duration="12072000" />
+      <workItem from="1677564593123" duration="6799000" />
+      <workItem from="1677574457954" duration="2731000" />
+      <workItem from="1677577357118" duration="14000" />
+      <workItem from="1677632256918" duration="6583000" />
+      <workItem from="1677639576018" duration="77000" />
+      <workItem from="1677640731842" duration="4126000" />
+      <workItem from="1677648016208" duration="526000" />
+      <workItem from="1677651831837" duration="3455000" />
+      <workItem from="1677658232344" duration="166000" />
+      <workItem from="1677661394900" duration="267000" />
+      <workItem from="1677675444046" duration="131000" />
+      <workItem from="1677718843319" duration="1006000" />
+      <workItem from="1677812418033" duration="59000" />
     </task>
     <servers />
   </component>

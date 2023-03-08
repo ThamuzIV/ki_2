@@ -1,4 +1,5 @@
-
+import java.io.InputStream;
+import java.util.Scanner;
 
 public class find_min {
     public static void main(String[] args) {

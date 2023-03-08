@@ -1,4 +1,4 @@
-package exerctice;
+package day5.src.exerctice;
 
 public class QuadraticEquation {
     private double a,b,c;

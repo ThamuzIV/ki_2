@@ -1,4 +1,4 @@
-package exerctice;
+package day5.src.exerctice;
 
 import java.io.InputStream;
 import java.util.Scanner;

@@ -56,18 +56,12 @@ public class use {
     }
 
     static void useTelevision() {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter button");
-        String button = sc.next();
         remote.powerButton();
         System.out.println(television.show());
-        remote.rightButton(button);
-        remote.leftButton(button);
-        int nbButton = sc.nextInt();
-        remote.numberButton(nbButton);
+        remote.rightButton("up");
+        remote.leftButton("up");
         System.out.println(television.show());
-        remote.powerButton();
-        System.out.println(television.show());
+
     }
 
     static void useSwitchAndBulb() {

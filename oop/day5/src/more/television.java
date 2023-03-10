@@ -36,6 +36,7 @@ public class television {
             break;
         }
         return information;
+
     }
     public static String getInformation() {
         return information;

@@ -2,20 +2,23 @@ package day5.src.more;
 
 public class remote {
     public static void rightButton(String button) {
-        if (television.change > 10 || television.change < 1) {
+        if (television.change <= 10 && television.change > 0) {
             switch (button) {
-                case "up": television.change++;
+                case "up": television.change += 1;
                     break;
-                case "down": television.change--;
+                case "down": television.change -=1;
                     break;
                 default: System.out.print("");
                     break;
             }
         }
+        System.out.println(television.change);
         television.setInformation();
+        System.out.println(1);
     }
     public static void leftButton(String button) {
-        if (television.vol > 100 || television.vol < 1) {
+        if (television.vol <= 100 && television.vol >= 1) {
+
             switch (button) {
                 case "up": television.vol++;
                     break;

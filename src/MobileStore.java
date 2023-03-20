@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class MobileStore {
     private  Mobile[] store;
@@ -15,11 +14,10 @@ public class MobileStore {
     }
 
     public boolean importMobi(Mobile mobile) {
-        if (this.numMobi < store.length) {
+        if (this.numMobi < this.store.length) {
             this.store[numMobi++] = mobile;
             return true;
         } else {
-            System.out.println();
             return false;
         }
     }
@@ -41,6 +39,15 @@ public class MobileStore {
     public void showStore() {
         for (int i = 0; i < this.numMobi; i++) {
             this.store[i].showMobile();
+        }
+    }
+
+    public void showStoreOne(int codePhone) {
+        for (int i = 0; i < this.numMobi; i++) {
+            if (this.store[i].getMobiCode() == codePhone) {
+                this.store[i].showMobile();
+                break;
+            }
         }
     }
 

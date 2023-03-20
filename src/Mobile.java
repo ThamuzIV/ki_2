@@ -2,7 +2,7 @@
 
 public class Mobile {
     private static int countMobi = 1;
-    private int mobiCode;
+    private final int mobiCode;
     private String brand;
     private String color;
     private int width;

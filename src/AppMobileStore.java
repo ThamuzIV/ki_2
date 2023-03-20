@@ -11,6 +11,7 @@ public class AppMobileStore {
         Mobile objMobile8 = new Mobile();
         Mobile objMobile9 = new Mobile();
         Mobile objMobile10 = new Mobile();
+
         MobileStore objMobileStore = new MobileStore();
         objMobileStore.importMobi(objMobile1);
         objMobileStore.importMobi(objMobile2);
@@ -22,8 +23,13 @@ public class AppMobileStore {
         objMobileStore.importMobi(objMobile8);
         objMobileStore.importMobi(objMobile9);
         objMobileStore.importMobi(objMobile10);
-        objMobileStore.showStore();
         objMobileStore.sellPhone(105);
-        objMobileStore.showStore();
+
+        Mobile objMobile11 = new Mobile();
+        objMobileStore.importMobi(objMobile11);
+        objMobileStore.sellPhone(110);
+        objMobileStore.updateMobi(111,"samsung","blue",5,5,5,90);
+
+        objMobileStore.showStoreOne(102);
     }
 }

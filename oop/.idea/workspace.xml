@@ -5,51 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7f7d515-a409-44fa-b2d0-23e7b97c8b0e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../day1/day1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/exercise/convertMoney.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/exercise/hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/exercise/number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/exercise/numberReal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/exercise/solve_first_degree_equation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/exercise/time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/practice/bmi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/practice/dayInMonth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/practice/declare_variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/practice/leap_year.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day1/src/practice/rectangular_area.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/day2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/src/bankInterest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/src/draw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/src/greatestCommonDivisor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/src/prime2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day2/src/printPrime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/day3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/asterisk/count_duplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/asterisk/count_pass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/asterisk/sum_colum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/asterisk/sum_diagonal_line.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/delete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/exercise/add.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/exercise/find_in_2d.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/exercise/find_min.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/exercise/join.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/practise/find.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/practise/findMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day3/src/practise/reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4/day4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4/src/Temperature_conversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day4/src/find_min.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/AppBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/AppBookList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/BookList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plus/Cadres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plus/CadresManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plus/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plus/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plus/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/CSDL.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/Central Topic.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/Phương thức (construtctor).xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/access modifier,static method,static property.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/lap1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/sử dụng hàm tạo và đối tượng (js).xmind" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/haha.java" beforeDir="false" afterPath="$PROJECT_DIR$/day2/haha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/bankInterest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/draw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/greatestCommonDivisor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/prime2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/src/printPrime.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +53,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2MIhtpBMf0JJqFazZDh7nagkfYD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -93,7 +67,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/CodeGym/leve up",
+    "last_opened_file_path": "C:/CodeGym/Semester II",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -216,6 +190,8 @@
       <workItem from="1677675444046" duration="131000" />
       <workItem from="1677718843319" duration="1006000" />
       <workItem from="1677812418033" duration="59000" />
+      <workItem from="1679293869401" duration="8000" />
+      <workItem from="1679648095380" duration="369000" />
     </task>
     <servers />
   </component>

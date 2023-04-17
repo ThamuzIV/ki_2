@@ -5,22 +5,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7f7d515-a409-44fa-b2d0-23e7b97c8b0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day7/AppBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/AppBookList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/BookList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/Cadres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/CadresManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/CSDL.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/Central Topic.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/Phương thức (construtctor).xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/access modifier,static method,static property.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/lap1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/sử dụng hàm tạo và đối tượng (js).xmind" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/block1/more/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/block1/more/PenCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/block1/more/RunPen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetGame/AppComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/NetGame/AppComputer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetGame/AppCyberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/NetGame/AppCyberGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetGame/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/NetGame/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetGame/CyberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/NetGame/CyberGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/day3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/day3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/asterisk/count_duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/asterisk/count_duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/asterisk/count_pass.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/asterisk/count_pass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/asterisk/sum_colum.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/asterisk/sum_colum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/asterisk/sum_diagonal_line.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/asterisk/sum_diagonal_line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/delete.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/delete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/exercise/add.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/exercise/add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/exercise/find_in_2d.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/exercise/find_in_2d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/exercise/find_min.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/exercise/find_min.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/exercise/join.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/exercise/join.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/practise/find.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/practise/find.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/practise/findMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/practise/findMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/src/practise/reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day3/src/practise/reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/day4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day4/day4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/src/Temperature_conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day4/src/Temperature_conversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/src/find_min.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day4/src/find_min.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/day5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/day5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/exerctice/FanNasonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/exerctice/FanNasonic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/exerctice/MobiPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/exerctice/MobiPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/exerctice/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/exerctice/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/exerctice/RectangleExe.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/exerctice/RectangleExe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/exerctice/StopWatchProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/exerctice/StopWatchProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/exerctice/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/exerctice/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/exerctice/Use.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/exerctice/Use.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/Battery.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/Battery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/Bulb.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/Bulb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/Flash.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/Flash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/Jerry.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/Jerry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/Tom.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/Tom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/remote.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/remote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/television.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/more/use.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/more/use.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/practise/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/practise/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/practise/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/practise/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/practise/UseDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/practise/UseDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/src/practise/UseRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day5/src/practise/UseRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/day6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day6/day6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day6/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/src/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day6/src/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day6/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/AppBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day7/AppBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/AppBookList.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day7/AppBookList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day7/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/BookList.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/day7/BookList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/exerctice/FanNasonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/exerctice/MobiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/exerctice/QuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/exerctice/RectangleExe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/exerctice/StopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/exerctice/StopWatchProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/exerctice/Temperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/exerctice/Use.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/Battery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/Bulb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/Flash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/Jerry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/Tom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/remote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/television.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/day5/src/more/use.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/practise/Date.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/practise/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/practise/UseDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day5/practise/UseRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus/compaly/Cadres.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/compaly/Cadres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus/compaly/CadresManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/compaly/CadresManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus/compaly/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/compaly/Engineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus/compaly/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/compaly/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus/compaly/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/block1/compaly/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Semester II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Semester II/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Semester II/day5/day5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Semester II/day5/day5.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,22 +133,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/CodeGym/Semester II",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/CodeGym/Semester II&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.StopWatchProgram">
+}</component>
+  <component name="RunManager" selected="Application.find_min">
     <configuration name="StopWatchProgram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exerctice.StopWatchProgram" />
       <module name="day5" />
@@ -129,15 +201,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Use" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerctice.Use" />
-      <module name="day5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exerctice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="find_min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="find_min" />
+      <module name="day4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.find_min" />
         <item itemvalue="Application.StopWatchProgram" />
         <item itemvalue="Application.StopWatchProgram (3)" />
         <item itemvalue="Application.StopWatchProgram (2)" />
         <item itemvalue="Application.StopWatchProgram (1)" />
-        <item itemvalue="Application.Use" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +258,11 @@
       <workItem from="1677812418033" duration="59000" />
       <workItem from="1679293869401" duration="8000" />
       <workItem from="1679648095380" duration="369000" />
+      <workItem from="1680497017203" duration="222000" />
+      <workItem from="1680583700762" duration="21000" />
+      <workItem from="1681263790694" duration="27000" />
+      <workItem from="1681284836266" duration="55000" />
+      <workItem from="1681694948900" duration="43000" />
     </task>
     <servers />
   </component>

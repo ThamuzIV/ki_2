@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7f7d515-a409-44fa-b2d0-23e7b97c8b0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day7/AppBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/AppBookList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/BookList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/Cadres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/CadresManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/CSDL.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/Central Topic.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/Phương thức (construtctor).xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/access modifier,static method,static property.xmind" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/lap1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csdl/so_do_tu_duy/sử dụng hàm tạo và đối tượng (js).xmind" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/more/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more/PenCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more/RunPen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/src/find_min.java" beforeDir="false" afterPath="$PROJECT_DIR$/day4/src/find_min.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/day5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day5/day5.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,22 +51,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/CodeGym/Semester II",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/CodeGym/Semester II&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.StopWatchProgram">
+}</component>
+  <component name="RunManager" selected="Application.find_min">
     <configuration name="StopWatchProgram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exerctice.StopWatchProgram" />
       <module name="day5" />
@@ -129,15 +119,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Use" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerctice.Use" />
-      <module name="day5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exerctice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="find_min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="find_min" />
+      <module name="day4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.find_min" />
         <item itemvalue="Application.StopWatchProgram" />
         <item itemvalue="Application.StopWatchProgram (3)" />
         <item itemvalue="Application.StopWatchProgram (2)" />
         <item itemvalue="Application.StopWatchProgram (1)" />
-        <item itemvalue="Application.Use" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +176,7 @@
       <workItem from="1677812418033" duration="59000" />
       <workItem from="1679293869401" duration="8000" />
       <workItem from="1679648095380" duration="369000" />
+      <workItem from="1680497017203" duration="222000" />
     </task>
     <servers />
   </component>

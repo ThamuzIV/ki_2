@@ -1,4 +1,4 @@
-package block2.exercise6_1;
+package block2.day2.exercise6_1;
 
 public class Square extends Rectangle{
     public Square() {

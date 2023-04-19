@@ -1,4 +1,4 @@
-package block2.day2.AnimalVsInterface;
+package block2.day2.AnimalAndInterface;
 
 abstract class Animal {
     abstract void makeSound();

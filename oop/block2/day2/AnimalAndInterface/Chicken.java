@@ -1,6 +1,8 @@
-package block2.day2.AnimalVsInterface;
+package block2.day2.AnimalAndInterface;
 
-public class Chicken extends Animal implements Edible{
+import block2.day2.AnimalVsInterface.Edible;
+
+public class Chicken extends Animal implements Edible {
     @Override
     public void howToEat() {
         System.out.println("gà rán");
